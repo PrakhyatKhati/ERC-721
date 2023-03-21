@@ -12,3 +12,42 @@ This is the screenshot for :-
 ![Screen Shot 2022-11-15 at 3 19 28 PM](https://user-images.githubusercontent.com/90866319/202027560-ea25607e-402a-42b6-9402-45b25160f3a9.png)
 
 Source : https://www.youtube.com/watch?v=veBu03A6ptw&list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF&index=1&ab_channel=Alchemy
+
+THe metadata:
+
+{
+"description": "This is Test NFT, where the picutre is all about end of fall, the leaves have fallen but a single tree  still stands with leaves ready to welcome winter. ",
+"image": "https://ipfs.filebase.io/ipfs/QmSxqPcD5Dx83QBwk4w5bSBbtFUZA8hmu7YFYqttzY7Zsq",
+"name": "ERC-721 UofS",
+"details": "This is just a demo of the detail section in the OpenSea testnet",
+"attributes": [
+{
+"trait_type": "Autumn",
+"value": "Snow Storm"
+},
+{
+"trait_type": "Trees",
+"value": "Winter"
+},
+{
+"trait_type": "Person",
+"value": "Absent"
+},
+{
+"trait_type": "Temperature-C",
+"value": 1
+},
+{
+"trait_type": "Stamina",
+"value": 1.4
+},
+{
+"trait_type": "University",
+"value": "UofS"
+},
+{
+"trait_type": "Description",
+"value": "Here the University is ready to welcome fall weather.  "
+}
+]
+}
